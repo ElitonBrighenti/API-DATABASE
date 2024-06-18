@@ -1,0 +1,15 @@
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Repository\bin\Debug\net8.0\Senai.Repository.deps.json
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Repository\bin\Debug\net8.0\Senai.Repository.dll
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Repository\bin\Debug\net8.0\Senai.Repository.pdb
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Repository\bin\Debug\net8.0\Senai.Domain.dll
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Repository\bin\Debug\net8.0\Senai.Domain.pdb
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Repository\obj\Debug\net8.0\Senai.Repository.csproj.AssemblyReference.cache
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Repository\obj\Debug\net8.0\Senai.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Repository\obj\Debug\net8.0\Senai.Repository.AssemblyInfoInputs.cache
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Repository\obj\Debug\net8.0\Senai.Repository.AssemblyInfo.cs
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Repository\obj\Debug\net8.0\Senai.Repository.csproj.CoreCompileInputs.cache
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Repository\obj\Debug\net8.0\Senai.Re.0FAD8531.Up2Date
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Repository\obj\Debug\net8.0\Senai.Repository.dll
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Repository\obj\Debug\net8.0\refint\Senai.Repository.dll
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Repository\obj\Debug\net8.0\Senai.Repository.pdb
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Repository\obj\Debug\net8.0\ref\Senai.Repository.dll

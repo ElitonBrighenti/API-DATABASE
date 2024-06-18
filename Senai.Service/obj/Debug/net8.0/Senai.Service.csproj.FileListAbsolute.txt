@@ -1,0 +1,17 @@
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Service\bin\Debug\net8.0\Senai.Service.deps.json
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Service\bin\Debug\net8.0\Senai.Service.dll
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Service\bin\Debug\net8.0\Senai.Service.pdb
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Service\bin\Debug\net8.0\Senai.Domain.dll
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Service\bin\Debug\net8.0\Senai.Repository.dll
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Service\bin\Debug\net8.0\Senai.Domain.pdb
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Service\bin\Debug\net8.0\Senai.Repository.pdb
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Service\obj\Debug\net8.0\Senai.Service.csproj.AssemblyReference.cache
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Service\obj\Debug\net8.0\Senai.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Service\obj\Debug\net8.0\Senai.Service.AssemblyInfoInputs.cache
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Service\obj\Debug\net8.0\Senai.Service.AssemblyInfo.cs
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Service\obj\Debug\net8.0\Senai.Service.csproj.CoreCompileInputs.cache
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Service\obj\Debug\net8.0\Senai.Se.56EFE872.Up2Date
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Service\obj\Debug\net8.0\Senai.Service.dll
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Service\obj\Debug\net8.0\refint\Senai.Service.dll
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Service\obj\Debug\net8.0\Senai.Service.pdb
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Service\obj\Debug\net8.0\ref\Senai.Service.dll

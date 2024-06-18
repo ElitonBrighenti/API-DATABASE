@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senai.Api", "Senai.Api\Senai.Api.csproj", "{2B592ED6-5378-4FC5-9B9B-285049AD403A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senai.Service", "Senai.Service\Senai.Service.csproj", "{F0B0E8F7-F877-4824-96A7-D98607316E9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senai.Repository", "Senai.Repository\Senai.Repository.csproj", "{B07AE3FC-E5D3-45D3-975F-54824DE2B180}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senai.Domain", "Senai.Domain\Senai.Domain.csproj", "{FA5A50E6-0508-4F34-8F8C-9163D707533D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B592ED6-5378-4FC5-9B9B-285049AD403A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B592ED6-5378-4FC5-9B9B-285049AD403A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B592ED6-5378-4FC5-9B9B-285049AD403A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B592ED6-5378-4FC5-9B9B-285049AD403A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0B0E8F7-F877-4824-96A7-D98607316E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0B0E8F7-F877-4824-96A7-D98607316E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0B0E8F7-F877-4824-96A7-D98607316E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0B0E8F7-F877-4824-96A7-D98607316E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B07AE3FC-E5D3-45D3-975F-54824DE2B180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B07AE3FC-E5D3-45D3-975F-54824DE2B180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B07AE3FC-E5D3-45D3-975F-54824DE2B180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B07AE3FC-E5D3-45D3-975F-54824DE2B180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA5A50E6-0508-4F34-8F8C-9163D707533D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA5A50E6-0508-4F34-8F8C-9163D707533D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA5A50E6-0508-4F34-8F8C-9163D707533D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA5A50E6-0508-4F34-8F8C-9163D707533D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8BF3534-5710-4942-A3CA-A35D4796BDA6}
+	EndGlobalSection
+EndGlobal
