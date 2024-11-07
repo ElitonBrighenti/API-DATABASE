@@ -15,3 +15,22 @@ C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Service\obj\Debug\net8.0\Sena
 C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Service\obj\Debug\net8.0\refint\Senai.Service.dll
 C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Service\obj\Debug\net8.0\Senai.Service.pdb
 C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Service\obj\Debug\net8.0\ref\Senai.Service.dll
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Service\obj\Debug\net8.0\Senai.Service.sourcelink.json
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Service\bin\Debug\net8.0\Senai.Service.deps.json
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Service\bin\Debug\net8.0\Senai.Service.dll
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Service\bin\Debug\net8.0\Senai.Service.pdb
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Service\bin\Debug\net8.0\Senai.Domain.dll
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Service\bin\Debug\net8.0\Senai.Repository.dll
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Service\bin\Debug\net8.0\Senai.Domain.pdb
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Service\bin\Debug\net8.0\Senai.Repository.pdb
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Service\obj\Debug\net8.0\Senai.Service.csproj.AssemblyReference.cache
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Service\obj\Debug\net8.0\Senai.Service.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Service\obj\Debug\net8.0\Senai.Service.AssemblyInfoInputs.cache
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Service\obj\Debug\net8.0\Senai.Service.AssemblyInfo.cs
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Service\obj\Debug\net8.0\Senai.Service.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Service\obj\Debug\net8.0\Senai.Service.sourcelink.json
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Service\obj\Debug\net8.0\Senai.Se.56EFE872.Up2Date
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Service\obj\Debug\net8.0\Senai.Service.dll
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Service\obj\Debug\net8.0\refint\Senai.Service.dll
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Service\obj\Debug\net8.0\Senai.Service.pdb
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Service\obj\Debug\net8.0\ref\Senai.Service.dll

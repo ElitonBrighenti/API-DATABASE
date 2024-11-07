@@ -554,7 +554,10 @@
       "System.Threading.Channels/6.0.0": {},
       "Senai.Domain/1.0.0": {
         "runtime": {
-          "Senai.Domain.dll": {}
+          "Senai.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Senai.Repository/1.0.0": {
@@ -564,7 +567,10 @@
           "Senai.Domain": "1.0.0"
         },
         "runtime": {
-          "Senai.Repository.dll": {}
+          "Senai.Repository.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Senai.Service/1.0.0": {
@@ -574,7 +580,10 @@
           "Senai.Repository": "1.0.0"
         },
         "runtime": {
-          "Senai.Service.dll": {}
+          "Senai.Service.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

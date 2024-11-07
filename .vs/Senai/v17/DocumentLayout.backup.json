@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Meu Drive\\Backup Area de Trabalho\\TREINEE QUESTOR\\Senai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5A50E6-0508-4F34-8F8C-9163D707533D}|Senai.Domain\\Senai.Domain.csproj|g:\\meu drive\\backup area de trabalho\\treinee questor\\senai\\senai.domain\\dtos\\escoladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5A50E6-0508-4F34-8F8C-9163D707533D}|Senai.Domain\\Senai.Domain.csproj|solutionrelative:senai.domain\\dtos\\escoladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B0E8F7-F877-4824-96A7-D98607316E9F}|Senai.Service\\Senai.Service.csproj|g:\\meu drive\\backup area de trabalho\\treinee questor\\senai\\senai.service\\services\\escolaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B0E8F7-F877-4824-96A7-D98607316E9F}|Senai.Service\\Senai.Service.csproj|solutionrelative:senai.service\\services\\escolaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07AE3FC-E5D3-45D3-975F-54824DE2B180}|Senai.Repository\\Senai.Repository.csproj|g:\\meu drive\\backup area de trabalho\\treinee questor\\senai\\senai.repository\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07AE3FC-E5D3-45D3-975F-54824DE2B180}|Senai.Repository\\Senai.Repository.csproj|solutionrelative:senai.repository\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5A50E6-0508-4F34-8F8C-9163D707533D}|Senai.Domain\\Senai.Domain.csproj|g:\\meu drive\\backup area de trabalho\\treinee questor\\senai\\senai.domain\\entidades\\escola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5A50E6-0508-4F34-8F8C-9163D707533D}|Senai.Domain\\Senai.Domain.csproj|solutionrelative:senai.domain\\entidades\\escola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B592ED6-5378-4FC5-9B9B-285049AD403A}|Senai.Api\\Senai.Api.csproj|g:\\meu drive\\backup area de trabalho\\treinee questor\\senai\\senai.api\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B592ED6-5378-4FC5-9B9B-285049AD403A}|Senai.Api\\Senai.Api.csproj|solutionrelative:senai.api\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B0E8F7-F877-4824-96A7-D98607316E9F}|Senai.Service\\Senai.Service.csproj|g:\\meu drive\\backup area de trabalho\\treinee questor\\senai\\senai.service\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B0E8F7-F877-4824-96A7-D98607316E9F}|Senai.Service\\Senai.Service.csproj|solutionrelative:senai.service\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 241,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EscolaDto.cs",
+              "DocumentMoniker": "G:\\Meu Drive\\Backup Area de Trabalho\\TREINEE QUESTOR\\Senai\\Senai.Domain\\DTos\\EscolaDto.cs",
+              "RelativeDocumentMoniker": "Senai.Domain\\DTos\\EscolaDto.cs",
+              "ToolTip": "G:\\Meu Drive\\Backup Area de Trabalho\\TREINEE QUESTOR\\Senai\\Senai.Domain\\DTos\\EscolaDto.cs",
+              "RelativeToolTip": "Senai.Domain\\DTos\\EscolaDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T12:39:25.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Escola.cs",
+              "DocumentMoniker": "G:\\Meu Drive\\Backup Area de Trabalho\\TREINEE QUESTOR\\Senai\\Senai.Domain\\Entidades\\Escola.cs",
+              "RelativeDocumentMoniker": "Senai.Domain\\Entidades\\Escola.cs",
+              "ToolTip": "G:\\Meu Drive\\Backup Area de Trabalho\\TREINEE QUESTOR\\Senai\\Senai.Domain\\Entidades\\Escola.cs",
+              "RelativeToolTip": "Senai.Domain\\Entidades\\Escola.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T12:39:38.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EscolaService.cs",
+              "DocumentMoniker": "G:\\Meu Drive\\Backup Area de Trabalho\\TREINEE QUESTOR\\Senai\\Senai.Service\\Services\\EscolaService.cs",
+              "RelativeDocumentMoniker": "Senai.Service\\Services\\EscolaService.cs",
+              "ToolTip": "G:\\Meu Drive\\Backup Area de Trabalho\\TREINEE QUESTOR\\Senai\\Senai.Service\\Services\\EscolaService.cs",
+              "RelativeToolTip": "Senai.Service\\Services\\EscolaService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T12:39:11.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlunoService.cs",
+              "DocumentMoniker": "G:\\Meu Drive\\Backup Area de Trabalho\\TREINEE QUESTOR\\Senai\\Senai.Service\\Services\\AlunoService.cs",
+              "RelativeDocumentMoniker": "Senai.Service\\Services\\AlunoService.cs",
+              "ToolTip": "G:\\Meu Drive\\Backup Area de Trabalho\\TREINEE QUESTOR\\Senai\\Senai.Service\\Services\\AlunoService.cs",
+              "RelativeToolTip": "Senai.Service\\Services\\AlunoService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:13:38.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlunoRepository.cs",
+              "DocumentMoniker": "G:\\Meu Drive\\Backup Area de Trabalho\\TREINEE QUESTOR\\Senai\\Senai.Repository\\Repositories\\AlunoRepository.cs",
+              "RelativeDocumentMoniker": "Senai.Repository\\Repositories\\AlunoRepository.cs",
+              "ToolTip": "G:\\Meu Drive\\Backup Area de Trabalho\\TREINEE QUESTOR\\Senai\\Senai.Repository\\Repositories\\AlunoRepository.cs",
+              "RelativeToolTip": "Senai.Repository\\Repositories\\AlunoRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:04:29.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "G:\\Meu Drive\\Backup Area de Trabalho\\TREINEE QUESTOR\\Senai\\Senai.Api\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "Senai.Api\\Controllers\\AlunoController.cs",
+              "ToolTip": "G:\\Meu Drive\\Backup Area de Trabalho\\TREINEE QUESTOR\\Senai\\Senai.Api\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "Senai.Api\\Controllers\\AlunoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:41:13.75Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

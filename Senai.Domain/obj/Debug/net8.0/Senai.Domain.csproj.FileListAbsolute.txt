@@ -9,3 +9,16 @@ C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Domain\obj\Debug\net8.0\Senai
 C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Domain\obj\Debug\net8.0\refint\Senai.Domain.dll
 C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Domain\obj\Debug\net8.0\Senai.Domain.pdb
 C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Domain\obj\Debug\net8.0\ref\Senai.Domain.dll
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Domain\obj\Debug\net8.0\Senai.Domain.sourcelink.json
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Domain\bin\Debug\net8.0\Senai.Domain.deps.json
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Domain\bin\Debug\net8.0\Senai.Domain.dll
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Domain\bin\Debug\net8.0\Senai.Domain.pdb
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Domain\obj\Debug\net8.0\Senai.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Domain\obj\Debug\net8.0\Senai.Domain.AssemblyInfoInputs.cache
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Domain\obj\Debug\net8.0\Senai.Domain.AssemblyInfo.cs
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Domain\obj\Debug\net8.0\Senai.Domain.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Domain\obj\Debug\net8.0\Senai.Domain.sourcelink.json
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Domain\obj\Debug\net8.0\Senai.Domain.dll
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Domain\obj\Debug\net8.0\refint\Senai.Domain.dll
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Domain\obj\Debug\net8.0\Senai.Domain.pdb
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Domain\obj\Debug\net8.0\ref\Senai.Domain.dll

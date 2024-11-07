@@ -13,3 +13,20 @@ C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Repository\obj\Debug\net8.0\S
 C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Repository\obj\Debug\net8.0\refint\Senai.Repository.dll
 C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Repository\obj\Debug\net8.0\Senai.Repository.pdb
 C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Repository\obj\Debug\net8.0\ref\Senai.Repository.dll
+C:\Users\elito\Desktop\TREINEE QUESTOR\Senai\Senai.Repository\obj\Debug\net8.0\Senai.Repository.sourcelink.json
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Repository\bin\Debug\net8.0\Senai.Repository.deps.json
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Repository\bin\Debug\net8.0\Senai.Repository.dll
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Repository\bin\Debug\net8.0\Senai.Repository.pdb
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Repository\bin\Debug\net8.0\Senai.Domain.dll
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Repository\bin\Debug\net8.0\Senai.Domain.pdb
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Repository\obj\Debug\net8.0\Senai.Repository.csproj.AssemblyReference.cache
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Repository\obj\Debug\net8.0\Senai.Repository.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Repository\obj\Debug\net8.0\Senai.Repository.AssemblyInfoInputs.cache
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Repository\obj\Debug\net8.0\Senai.Repository.AssemblyInfo.cs
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Repository\obj\Debug\net8.0\Senai.Repository.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Repository\obj\Debug\net8.0\Senai.Repository.sourcelink.json
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Repository\obj\Debug\net8.0\Senai.Re.0FAD8531.Up2Date
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Repository\obj\Debug\net8.0\Senai.Repository.dll
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Repository\obj\Debug\net8.0\refint\Senai.Repository.dll
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Repository\obj\Debug\net8.0\Senai.Repository.pdb
+G:\Meu Drive\Backup Area de Trabalho\TREINEE QUESTOR\Senai\Senai.Repository\obj\Debug\net8.0\ref\Senai.Repository.dll

@@ -178,7 +178,10 @@
       },
       "Senai.Domain/1.0.0": {
         "runtime": {
-          "Senai.Domain.dll": {}
+          "Senai.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
